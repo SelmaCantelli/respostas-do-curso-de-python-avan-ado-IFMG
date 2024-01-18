@@ -1,0 +1,28 @@
+Suponha que o código a seguir seja executado.
+
+D = {1:'A', 2:'B', 3:'C'}
+D[4] = 'E'
+D[4] = 'D'
+Marque a alternativa CORRETA.
+
+
+a.
+As chaves do dicionário D serão 1, 2, 3 e 4.
+
+
+b.
+Os valores do dicionário D serão 'A', 'B', 'C' e 'E'.
+
+
+c.
+As chaves do dicionário D serão 'A', 'B', 'C' e 'D'.
+
+
+d.
+Os valores do dicionário D são 1, 2, 3 e 4.
+
+
+e.
+Ocorre um erro na instrução D[4] = 'D' porque a chave-valor já existe.
+
+Resposta: A
