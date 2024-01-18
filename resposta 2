@@ -1,0 +1,33 @@
+Observe o seguinte código:
+
+n1 = int(input('Informe um número: '))
+n2 = int(input('Informe outro número: '))
+print(n1, '==', n2, '->', n1 == n2, end=' ')
+print(n1, '!=', n2, '->', n1 != n2, end=' ')
+print(n1, '<', n2, '->', n1 < n2, end=' ')
+print(n1, '<=', n2, '->', n1 <= n2, end=' ')
+print(n1, '>', n2, '->', n1 > n2, end=' ')
+print(n1, '>=', n2, '->', n1 >= n2)
+Se, na execução do código, o usuário informar os números 4 e 10, será impresso na tela:
+
+
+a.
+False, True, False, False, True, True.
+
+
+b.
+False, True, True, True, True, True.
+
+
+c.
+False, True, True, True, False, False.
+
+
+d.
+False, False, True, True, False, False.
+
+
+e.
+False, True, True, False, False, False.
+
+Resposta: C
