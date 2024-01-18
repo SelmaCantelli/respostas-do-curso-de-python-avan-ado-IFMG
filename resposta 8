@@ -1,0 +1,35 @@
+Considere as seguintes afirmações sobre interfaces gráficas:
+
+I) O método setItem() serve para modificar o conteúdo de uma célula de um TableWidget.
+
+II) O evento cellTextChanged está relacionado com a alteração das células de um TableWidget.
+
+III) A mudança do item selecionado em um ComboBox dispara o evento currentIndexChanged.
+
+IV) O método setRowCount() permitir definir o número de linhas de um TableWidget.
+
+V) O evento itemSelectionChanged  do componente TableWidget é disparado quando a seleção das células muda.
+
+ Assinale a opção que apresenta a sequência de afirmações falsas (F) e verdadeiras (V) de forma CORRETA. 
+
+
+a.
+V, F, V, F, V
+
+
+b.
+Todas as afirmativas são verdadeiras.
+
+
+c.
+V, F, V, V, V
+
+
+d.
+V, V, F, V, V
+
+
+e.
+V, F, F, V, V
+
+Resposta: C
