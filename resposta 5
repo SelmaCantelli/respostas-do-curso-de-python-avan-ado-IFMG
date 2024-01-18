@@ -1,0 +1,29 @@
+Observe o código a seguir:
+
+nota = float(input('Informe a nota: '))
+if nota >= 60:
+    print('Aprovado')
+print('Boas férias')
+Considerando o código, é INCORRETO afirmar que:
+
+
+a.
+O código usa uma uma estrutura de decisão simples.
+
+
+b.
+A estrutura de decisão usada não tem relação com estruturas condicionais e desvios condicionais.
+
+
+c.
+A mensagem "Boas férias" sempre será mostrada na tela.
+
+
+d.
+A mensagem "Aprovado" é exibida na tela somente se a nota do aluno for maior ou igual a 60.
+
+
+e.
+A nota recebida pela função input() é convertida para o tipo float.
+
+Resposta: B
