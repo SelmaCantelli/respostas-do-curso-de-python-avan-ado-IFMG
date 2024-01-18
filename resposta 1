@@ -1,0 +1,23 @@
+Considere as seguintes afirmações sobre a manipulação de arquivos e marque a alternativa CORRETA.
+
+
+a.
+Na prática, os dados no formato JSON são muito parecidos com o resultado de um print() de dicionários e listas.
+
+
+b.
+A biblioteca json não pode ser usada para converter o conteúdo de um arquivo JSON em um dicionário.
+
+
+c.
+A escrita de arquivos JSON é feita com o método write da json.
+
+
+d.
+A leitura de arquivos JSON é feita com o método read da json.
+
+
+e.
+A biblioteca json não pode ser usada para converter o conteúdo de um arquivo JSON em uma lista.
+
+Resposta: A
