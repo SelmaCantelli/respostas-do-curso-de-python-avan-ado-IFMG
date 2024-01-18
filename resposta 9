@@ -1,0 +1,23 @@
+Considere as seguintes afirmações sobre a manipulação de arquivos e marque a alternativa CORRETA.
+
+
+a.
+Os objetos da classe csv.reader ignoram automaticamente o cabeçalho de arquivos CSV.
+
+
+b.
+Podemos usar um laço de repetição for para percorrer as linhas de um arquivo CSV usando um objeto da classe reader da biblioteca csv.
+
+
+c.
+Somente a vírgula pode ser usada como delimitador de campos em arquivos CSV.
+
+
+d.
+O método writerow() da classe csv.writer permite gravar uma lista da linhas em um arquivo CSV.
+
+
+e.
+Quando criamos um objeto leitor da classe reader da biblioteca csv, precisamos fazer o tratamento manual dos valores delimitados no arquivo CSV.
+
+Resposta: B
