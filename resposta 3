@@ -1,0 +1,23 @@
+Considere as seguintes afirmações sobre interfaces gráficas e marque a alternativa CORRETA.
+
+
+a.
+Todas as interfaces gráficas devem ser criadas de forma manual especificando detalhadamente como cada componente deve ser desenhado via código.
+
+
+b.
+O Qt Designer é uma ferramenta para auxiliar a criação de interfaces manualmente por meio de código.
+
+
+c.
+A única biblioteca disponível para criação de interfaces gráficas em Python é a PyQt.
+
+
+d.
+As aplicações com interfaces gráficas possuem diversos componentes visuais para capturar ou mostrar informações ao usuário.
+
+
+e.
+O Qt Designer salva as interfaces criadas no formato de arquivos de código Python.
+
+Resposta: D
