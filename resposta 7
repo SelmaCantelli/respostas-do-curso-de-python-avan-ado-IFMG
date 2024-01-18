@@ -1,0 +1,40 @@
+Considere código a seguir e marque a alternativa CORRETA.
+
+class Conta:
+    def __init__(self, numero):
+        self._numero = numero
+        self._saldo = 0.0
+    def depositar(self, valor):
+        self._saldo += valor:
+class ContaInvestimento(Conta):
+    def depositar(self, valor):
+        self._saldo += valor * 1.01
+cliente = ClientePF('Ana', 'Rua Um', 'XXX.XXX.XXX-ZZ', '1995-05-20')
+conta1 = ContaInvestimento(1111, cliente)
+cliente = ClientePJ('Loja X', 'Praça Central', 'XX.XXX.XXX/YYYY-ZZ')
+conta2 = Conta(2222, cliente)
+conta1.depositar(500.00)
+conta2.depositar(500.00)
+ 
+
+
+a.
+O polimorfismo ocorre quanto um objeto possui outro objeto como atributo.
+
+
+b.
+O polimorfismo permite que uma classe herde apenas os métodos de outra.
+
+
+c.
+O código gera erros porque a classe ContaInvestimento não tem um método construtor.
+
+
+d.
+Os objetos conta1 e conta2 terão o mesmo valor no atributo _saldo ao final da execução do código.
+
+
+e.
+Na POO, o polimorfismo determina dinamicamente qual método com mesmo nome na classe pai e filha deve ser chamado.
+
+Resposta: E
